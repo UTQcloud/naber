@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119070099611",
+    "project_id": "naber-55153",
+    "storage_bucket": "naber-55153.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119070099611:android:72c57a1c97d5fda4fdde3e",
+        "android_client_info": {
+          "package_name": "com.example.naber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJNi6SZinySQ_fs2u5TErYYGYRGUdqyHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
